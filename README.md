@@ -1,2 +1,2 @@
 # Code2040API
-An Application Programming Interface for Technical Assessment.
+An Application Programming Interface (API) for Technical Assessment.
